@@ -1,0 +1,6 @@
+com\nuance\gateway\GatewayApplication.class
+com\nuance\gateway\filters\ErrorFilter.class
+com\nuance\gateway\filters\PreFilter2.class
+com\nuance\gateway\filters\PostFilter.class
+com\nuance\gateway\filters\RouteFilter.class
+com\nuance\gateway\filters\PreFilter.class
